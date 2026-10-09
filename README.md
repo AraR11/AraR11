@@ -1,6 +1,6 @@
 # Hi, I'm Aramis Ramirez Lopez
 
-**AI Engineer at TekDatum** 
+**AI Engineer & Data Engineer** 
 
 I build the data pipelines behind ML systems. My pipelines turn raw web pages, documents and databases into validated, model-ready training data. Before data engineering I spent two years in QA automation, and it shows in how I work: my pipelines check their own output, and a record isn't done until it's verified.
 
